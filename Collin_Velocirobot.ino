@@ -1,6 +1,10 @@
 /*
 
-I wrote this shit. -Collin
+Program written by Collin Milliron
+
+This program was written for and tested on the Arduino Mega 2560 R3 by Elegoo
+
+This program is a work in progress.
 
 */
 
